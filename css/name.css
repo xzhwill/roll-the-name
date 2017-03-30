@@ -1,0 +1,123 @@
+.system{
+    width: 1200px;
+    height: 960px;
+    margin: 0 auto;
+}
+
+body{
+    background-color: grey;
+}
+
+.homecls{
+    font-size: 70px;
+    position: fixed;
+    right: 50px;
+    top: 20px;
+}
+
+.lists{
+    margin:100px 40px;
+}
+
+.buttonlist{
+    background-color: grey;
+    width: 130px;
+    height: 50px;
+}
+
+li{
+    width: 128px;
+    height: 48px;
+    border: 2px solid grey;
+    float: left;
+    list-style: none;
+    line-height: 50px;
+    text-align: center;
+    border-radius: 24px;
+}
+
+.bc{
+    background-color: red;
+}
+
+.bc01{
+    background-color: lightblue;
+}
+
+.bc02{
+    background-color: grey;
+}
+
+.bc1{
+    background-color:blue;
+}
+.bc2{
+    background-color: green;
+
+}
+
+.bc3{
+    background-color: lightseagreen;
+}
+
+.bc4{
+    background-color:dodgerblue;
+    opacity: 0.8;
+}
+
+.bc5{
+    background-color: lightcoral;
+    opacity: 0.8;
+}
+
+.bc6{
+    background-color: cyan;
+}
+
+.bc7{
+    background-color: chartreuse;
+}
+
+.bc8{
+    background-color: limegreen;
+}
+
+.bc9{
+    background-color: dimgrey;
+}
+
+.bc10{
+    background-color: limegreen;
+}
+
+.cls{
+    background-color: yellow;
+}
+
+#thenames{
+    width: 200px;
+    height: 300px;
+    background-color: blue;
+    position:fixed;
+    left: 0;
+    word-wrap:break-word;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
